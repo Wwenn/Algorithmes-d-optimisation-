@@ -4,6 +4,7 @@
 3.  Régression logistique：
 
 Partie I: Descente de gradient avec rebroussement d'Armijo
+
 Partie II: Régression logistique avec rebroussement d'Armijo en dimension N = 2
 
 4. Projection sur le simplexe et optimisation de portefeuille
