@@ -1,4 +1,4 @@
-# Algorithmes-d-optimisatio 算法优化 
+# Algorithmes-d-optimisation 算法优化 
 1.  Minimisation de fonctionnelles quadratiques convexes （ Minimisation of convex quadratic functionals）
 2.  Descente de gradient avec rebroussement d'Armijo （Gradient descent with Armijo re-routing）
 3.  Régression logistique（Logistic regression） ：
